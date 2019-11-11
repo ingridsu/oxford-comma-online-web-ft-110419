@@ -1,3 +1,3 @@
-def oxford_comma(["kiwi","durian","starfruit"])
+def oxford_comma(["kiwi","durian"and"starfruit"])
   puts oxford_comma .to
 end
